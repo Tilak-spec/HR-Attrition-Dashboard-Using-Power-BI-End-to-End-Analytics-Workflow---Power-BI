@@ -1,4 +1,5 @@
 1. Business Understanding & Objective
+   ----------------------------
 Employee attrition is a critical concern for organizations as high turnover affects productivity, morale, and costs. The goal of this HR Attrition Dashboard is to analyze employee churn patterns, identify key factors influencing attrition, and provide actionable insights for HR decision-making.
 Key Objectives:
 •	Measure and track attrition rate over time.
@@ -7,6 +8,7 @@ Key Objectives:
 •	Provide insights to improve employee engagement and reduce turnover.
 ________________________________________
 2. Data Collection & Preparation
+   -----------------------
 Data Sources:
 •	HR Employee Records (Excel, SQL Server, SharePoint, or HRMS system).
 •	Attrition History Data (Terminations, resignation reasons, etc.).
@@ -18,11 +20,13 @@ Data Cleaning & Transformation (Power Query in Power BI)
 •	Merging multiple datasets to establish relationships.
 ________________________________________
 3. Data Modeling & Relationships
+   --------------------------
 •	Fact Table: Attrition records containing Employee ID, Department, Exit Date, etc.
 •	Dimension Tables: Employee details, job roles, salary history, and survey responses.
 •	Defined one-to-many relationships to enable efficient analysis.
 ________________________________________
 4. Data Analysis & Key Metrics (DAX Calculations)
+   -------------------------------
 KPIs & Measures:
 •	Attrition Rate (%) = (Employees Left / Total Employees) * 100
 •	Average Tenure (Years) = AVERAGE(Employee Tenure)
@@ -31,6 +35,7 @@ KPIs & Measures:
 •	Employee Satisfaction Score Analysis
 ________________________________________
 5. Data Visualization & Dashboard Design
+   -----------------------
 Key Visuals in Power BI:
 1.	Overall Attrition Rate – Card Visual.
 2.	Attrition Trend Over Time – Line Chart.
@@ -45,12 +50,14 @@ User Experience Enhancements:
 •	Conditional Formatting to highlight high-risk areas.
 ________________________________________
 6. Publishing & Sharing the Dashboard
+   ---------------------------------
 •	Uploaded the dashboard to Power BI Service.
 •	Configured automatic data refresh (daily/weekly as per HR needs).
 •	Shared access with HR managers & leadership teams.
 •	Embedded the dashboard in Microsoft Teams & SharePoint for collaboration.
 ________________________________________
 7. Insights & Business Impact
+   ------------------------------
 Key Findings:
 •	High attrition observed in specific departments (e.g., Sales, Customer Support).
 •	Employees with lower salary bands and less tenure tend to leave more often.
@@ -63,6 +70,7 @@ Actionable Recommendations:
 ✅ Improve career development opportunities for long-term retention.
 ________________________________________
 8. Continuous Monitoring & Improvement
+   ---------------------
 •	Regularly updating the dashboard with new data.
 •	Analyzing the effectiveness of HR retention strategies.
 •	Refining predictive modeling for future attrition risk analysis.
