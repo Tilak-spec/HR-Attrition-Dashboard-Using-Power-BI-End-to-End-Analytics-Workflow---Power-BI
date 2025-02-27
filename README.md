@@ -50,26 +50,40 @@ KPIs & Measures:
 
 5. Data Visualization & Dashboard Design
    -----------------------
+
 Key Visuals in Power BI:
-1.	Overall Attrition Rate – Card Visual.
-2.	Attrition Trend Over Time – Line Chart.
-3.	Department-wise Attrition Comparison – Bar Chart.
-4.	Age Group vs. Attrition – Column Chart.
-5.	Salary Impact on Attrition – Scatter Chart.
-6.	Job Role-wise Attrition Rate – Pie Chart.
-7.	Filters & Slicers – Interactive options for HR teams to analyze specific groups.
+
+•	Overall Attrition Rate – Card Visual.
+
+•	Attrition Trend Over Time – Line Chart.
+
+•	Department-wise Attrition Comparison – Bar Chart.
+
+•	Age Group vs. Attrition – Column Chart.
+
+•	Salary Impact on Attrition – Scatter Chart.
+
+•	Job Role-wise Attrition Rate – Pie Chart.
+
+•	Filters & Slicers – Interactive options for HR teams to analyze specific groups.
+
    
 User Experience Enhancements:
 •	Drill-through to see attrition details by location, job role, or performance.
+
 •	Dynamic Filters & Slicers for real-time data analysis.
+
 •	Conditional Formatting to highlight high-risk areas.
 
 
 6. Publishing & Sharing the Dashboard
    ---------------------------------
 •	Uploaded the dashboard to Power BI Service.
+
 •	Configured automatic data refresh (daily/weekly as per HR needs).
+
 •	Shared access with HR managers & leadership teams.
+
 •	Embedded the dashboard in Microsoft Teams & SharePoint for collaboration.
 
 
@@ -77,19 +91,28 @@ User Experience Enhancements:
    ------------------------------
 Key Findings:
 •	High attrition observed in specific departments (e.g., Sales, Customer Support).
+
 •	Employees with lower salary bands and less tenure tend to leave more often.
+
 •	Low job satisfaction scores correlate with high attrition.
+
 •	Work-life balance issues impact retention significantly.
 
 Actionable Recommendations:
+
 ✅ Revise compensation strategies for high-risk job roles.
+
 ✅ Improve work-life balance initiatives (flexible work hours, remote work options).
+
 ✅ Conduct retention programs for employees in their first 1-2 years.
+
 ✅ Improve career development opportunities for long-term retention.
 
 
 8. Continuous Monitoring & Improvement
    ---------------------
 •	Regularly updating the dashboard with new data.
+
 •	Analyzing the effectiveness of HR retention strategies.
+
 •	Refining predictive modeling for future attrition risk analysis.
