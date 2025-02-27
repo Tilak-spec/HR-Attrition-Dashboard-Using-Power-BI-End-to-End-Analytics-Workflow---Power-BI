@@ -57,6 +57,7 @@ User Experience Enhancements:
 •	Shared access with HR managers & leadership teams.
 •	Embedded the dashboard in Microsoft Teams & SharePoint for collaboration.
 
+
 7. Insights & Business Impact
    ------------------------------
 Key Findings:
@@ -69,6 +70,7 @@ Actionable Recommendations:
 ✅ Improve work-life balance initiatives (flexible work hours, remote work options).
 ✅ Conduct retention programs for employees in their first 1-2 years.
 ✅ Improve career development opportunities for long-term retention.
+
 
 8. Continuous Monitoring & Improvement
    ---------------------
