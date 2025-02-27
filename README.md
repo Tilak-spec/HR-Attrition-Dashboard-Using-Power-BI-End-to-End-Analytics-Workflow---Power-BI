@@ -1,10 +1,17 @@
 Step 1: Understanding Business Requirement
+
 Step 2: Import and explore the HR data set
+
 Step 3: Create a data model and relationships
+
 Step 4: Define the key performance indicators (KPIs) and DAX measures
+
 Step 5: Design the dashboard layout and visualizations
+
 Step 6: Add interactivity and functionality to the dashboard
+
 Step 7: Publish and share the dashboard
+
 Step 8: Drawing Insights from the Dashboard
 
 1. Business Understanding & Objective
