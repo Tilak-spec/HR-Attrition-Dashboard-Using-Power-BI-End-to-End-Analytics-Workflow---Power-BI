@@ -6,7 +6,7 @@ Key Objectives:
 •	Identify high-risk departments, job roles, and demographics prone to attrition.
 •	Analyze factors such as salary, work experience, job satisfaction, and work-life balance impacting employee retention.
 •	Provide insights to improve employee engagement and reduce turnover.
-________________________________________
+
 2. Data Collection & Preparation
    -----------------------
 Data Sources:
@@ -18,13 +18,13 @@ Data Cleaning & Transformation (Power Query in Power BI)
 •	Standardizing categorical fields (e.g., Department names, Job Titles).
 •	Creating calculated columns (e.g., Age groups, Experience bands).
 •	Merging multiple datasets to establish relationships.
-________________________________________
+
 3. Data Modeling & Relationships
    --------------------------
 •	Fact Table: Attrition records containing Employee ID, Department, Exit Date, etc.
 •	Dimension Tables: Employee details, job roles, salary history, and survey responses.
 •	Defined one-to-many relationships to enable efficient analysis.
-________________________________________
+
 4. Data Analysis & Key Metrics (DAX Calculations)
    -------------------------------
 KPIs & Measures:
@@ -33,7 +33,7 @@ KPIs & Measures:
 •	Department-wise Attrition = SUM(Attrition Count) by Department
 •	Salary vs. Attrition Correlation
 •	Employee Satisfaction Score Analysis
-________________________________________
+
 5. Data Visualization & Dashboard Design
    -----------------------
 Key Visuals in Power BI:
@@ -48,14 +48,14 @@ User Experience Enhancements:
 •	Drill-through to see attrition details by location, job role, or performance.
 •	Dynamic Filters & Slicers for real-time data analysis.
 •	Conditional Formatting to highlight high-risk areas.
-________________________________________
+
 6. Publishing & Sharing the Dashboard
    ---------------------------------
 •	Uploaded the dashboard to Power BI Service.
 •	Configured automatic data refresh (daily/weekly as per HR needs).
 •	Shared access with HR managers & leadership teams.
 •	Embedded the dashboard in Microsoft Teams & SharePoint for collaboration.
-________________________________________
+
 7. Insights & Business Impact
    ------------------------------
 Key Findings:
@@ -68,7 +68,7 @@ Actionable Recommendations:
 ✅ Improve work-life balance initiatives (flexible work hours, remote work options).
 ✅ Conduct retention programs for employees in their first 1-2 years.
 ✅ Improve career development opportunities for long-term retention.
-________________________________________
+
 8. Continuous Monitoring & Improvement
    ---------------------
 •	Regularly updating the dashboard with new data.
