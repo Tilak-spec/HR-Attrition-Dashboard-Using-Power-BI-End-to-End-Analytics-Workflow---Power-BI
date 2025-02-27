@@ -1,11 +1,12 @@
 1. Business Understanding & Objective
    ----------------------------
 Employee attrition is a critical concern for organizations as high turnover affects productivity, morale, and costs. The goal of this HR Attrition Dashboard is to analyze employee churn patterns, identify key factors influencing attrition, and provide actionable insights for HR decision-making.
+
 Key Objectives:
-•	Measure and track attrition rate over time.
-•	Identify high-risk departments, job roles, and demographics prone to attrition.
-•	Analyze factors such as salary, work experience, job satisfaction, and work-life balance impacting employee retention.
-•	Provide insights to improve employee engagement and reduce turnover.
+•	Measure and track attrition rate over time.	
+•	Identify high-risk departments, job roles, and demographics prone to attrition	
+•	Analyze factors such as salary, work experience, job satisfaction, and work-life balance impacting employee retention.	
+•	Provide insights to improve employee engagement and reduce turnover.	
 
 2. Data Collection & Preparation
    -----------------------
