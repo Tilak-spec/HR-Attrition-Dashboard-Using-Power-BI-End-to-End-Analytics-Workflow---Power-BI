@@ -13,7 +13,7 @@ Step 6: Add interactivity and functionality to the dashboard
 Step 7: Publish and share the dashboard
 
 Step 8: Drawing Insights from the Dashboard
-----------------------------------------------------------------------------------------
+
  📌insights HR professionals seeking to understand employee attrition and Key Takeaways:
 
 •	Composition of the Workforce: Understand the composition of the workforce by department, education field, business travel frequency, gender, job role, and age group.
